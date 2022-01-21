@@ -10,4 +10,7 @@ public class Welcomer{
 	public String saySomething() {
 		return "Every hunter wants to know where the pheasant is sitting";
 	}
+	public String sayHunter() {
+		return "Funny hunter!";
+	}
 }
